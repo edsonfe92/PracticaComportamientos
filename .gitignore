@@ -1,0 +1,1585 @@
+
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/readme.txt.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/readme.txt
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/Utils/Utilities.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/Utils/Utilities.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/Utils.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/SmartObjects/EditorSmartInteractionProvider.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/SmartObjects/EditorSmartInteractionProvider.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/SmartObjects/DataSmartInteractionProvider.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/SmartObjects/DataSmartInteractionProvider.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/SmartObjects/AssetSmartInteractionProvider.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/SmartObjects/AssetSmartInteractionProvider.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/SmartObjects.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/Debugging/BSRuntimeEventHandler.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/Debugging/BSRuntimeEventHandler.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/Debugging/BSRuntimeDebugger.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/Debugging/BSRuntimeDebugger.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/Debugging.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/BehaviourRunners/EditorBehaviourRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/BehaviourRunners/EditorBehaviourRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/BehaviourRunners/DataBehaviourRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/BehaviourRunners/DataBehaviourRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/BehaviourRunners/AssetBehaviourRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/BehaviourRunners/AssetBehaviourRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/BehaviourRunners.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/BehaviourAPI.UnityToolkit.GUIDesigner.Runtime.asmdef.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime/BehaviourAPI.UnityToolkit.GUIDesigner.Runtime.asmdef
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Runtime.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/IBehaviourSystem.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/IBehaviourSystem.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Elements/SystemData.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Elements/SystemData.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Elements/ReferencedData.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Elements/ReferencedData.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Elements/PushPerceptionData.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Elements/PushPerceptionData.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Elements/NodeData.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Elements/NodeData.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Elements/GraphData.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Elements/GraphData.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Elements.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Build elements/IBuildable.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Build elements/IBuildable.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Build elements/BSValidationInfo.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Build elements/BSValidationInfo.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Build elements/BSBuildingResults.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Build elements/BSBuildingResults.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Build elements/BSBuildingInfo.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Build elements/BSBuildingInfo.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data/Build elements.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Data.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/BehaviourSystem.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/BehaviourSystem.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/BehaviourAPI.UnityToolkit.GUIDesigner.Framework.asmdef.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/BehaviourAPI.UnityToolkit.GUIDesigner.Framework.asmdef
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/SerializedContextMethod.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/SerializedContextMethod.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Perceptions/PerceptionWrapper.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Perceptions/PerceptionWrapper.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Perceptions/CustomPerception.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Perceptions/CustomPerception.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Perceptions/CompoundPerceptionWrapper.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Perceptions/CompoundPerceptionWrapper.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Perceptions.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Actions/SubgraphAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Actions/SubgraphAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Actions/SubActionWrapper.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Actions/SubActionWrapper.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Actions/SimpleAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Actions/SimpleAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Actions/GraphIdentificatorAttribute.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Actions/GraphIdentificatorAttribute.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Actions/CustomAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Actions/CustomAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Actions/CompoundActionWrapper.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Actions/CompoundActionWrapper.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Actions/AssetSubgraphAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Actions/AssetSubgraphAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations/Actions.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework/Adaptations.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Framework.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Windows/Window panels/ToolPanel.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Windows/Window panels/ToolPanel.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Windows/Window panels/IPanelManager.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Windows/Window panels/IPanelManager.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Windows/Window panels/GraphTypeEntry.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Windows/Window panels/GraphTypeEntry.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Windows/Window panels/GenerateScriptPanel.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Windows/Window panels/GenerateScriptPanel.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Windows/Window panels/CreateGraphPanel.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Windows/Window panels/CreateGraphPanel.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Windows/Window panels.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Windows/EditorSettings.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Windows/EditorSettings.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Windows/BehaviourSystemEditorWindow.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Windows/BehaviourSystemEditorWindow.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Windows/AlertWindow.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Windows/AlertWindow.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Windows.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Utils/VisualElementExtensions.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Utils/VisualElementExtensions.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Utils/Extensions.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Utils/Extensions.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Utils/CreateScriptUtils.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Utils/CreateScriptUtils.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Utils.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Settings/BehaviourAPISettingsProvider.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Settings/BehaviourAPISettingsProvider.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Settings/BehaviourAPISettings.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Settings/BehaviourAPISettings.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Settings.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/SearchWindows/ElementSearchWindowProvider.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/SearchWindows/ElementSearchWindowProvider.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/SearchWindows/ElementCreatorWindowProvider.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/SearchWindows/ElementCreatorWindowProvider.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/SearchWindows.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Metadata/EditorHierarchyNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Metadata/EditorHierarchyNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Metadata/APITypeMetadata.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Metadata/APITypeMetadata.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Metadata.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Layout/TreeLayoutHandler.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Layout/TreeLayoutHandler.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Layout/LayoutHandler.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Layout/LayoutHandler.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Layout/LayeredLayoutHandler.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Layout/LayeredLayoutHandler.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Layout/CyclicLayoutHandler.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Layout/CyclicLayoutHandler.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Layout.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/SystemDataPropertyDrawer.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/SystemDataPropertyDrawer.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/SerializedMethodPropertyDrawer.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/SerializedMethodPropertyDrawer.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/ReferenceDataDrawer.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/ReferenceDataDrawer.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/PerceptionPropertyDrawer.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/PerceptionPropertyDrawer.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/GraphIdentificatorDrawer.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/GraphIdentificatorDrawer.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/FunctionPointPropertyDrawer.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/FunctionPointPropertyDrawer.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/CompoundPerceptionDrawer.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/CompoundPerceptionDrawer.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/CompoundActionDrawer.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/CompoundActionDrawer.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/BSRuntimeEventHandlerDrawer.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/BSRuntimeEventHandlerDrawer.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/ActionPropertyDrawer.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers/ActionPropertyDrawer.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/PropertyDrawers.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/GUISmartInteractionProviderEditor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/GUISmartInteractionProviderEditor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/EditorBehaviourRunnerEditor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/EditorBehaviourRunnerEditor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/BSRuntimeDebuggerEditor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/BSRuntimeDebuggerEditor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/BehaviourSystemAssetEditor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/BehaviourSystemAssetEditor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/AssetBehaviourRunnerEditor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors/AssetBehaviourRunnerEditor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Inspectors.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/PortView.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/PortView.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/NodeView.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/NodeView.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/NodeDrawers/UtilityNodeDrawer.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/NodeDrawers/UtilityNodeDrawer.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/NodeDrawers/NodeDrawer.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/NodeDrawers/NodeDrawer.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/NodeDrawers/FSMNodeDrawer.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/NodeDrawers/FSMNodeDrawer.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/NodeDrawers/CustomNodeDrawerAttribute.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/NodeDrawers/CustomNodeDrawerAttribute.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/NodeDrawers/BTNodeDrawer.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/NodeDrawers/BTNodeDrawer.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/NodeDrawers.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/GraphAdapters/UtilitySystemAdapter.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/GraphAdapters/UtilitySystemAdapter.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/GraphAdapters/StateMachineAdapter.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/GraphAdapters/StateMachineAdapter.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/GraphAdapters/StackFSMAdapter.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/GraphAdapters/StackFSMAdapter.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/GraphAdapters/GraphAdapter.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/GraphAdapters/GraphAdapter.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/GraphAdapters/CustomGraphAdapterAttribute.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/GraphAdapters/CustomGraphAdapterAttribute.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/GraphAdapters/BehaviourTreeAdapter.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/GraphAdapters/BehaviourTreeAdapter.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/GraphAdapters.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/EdgeView.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/EdgeView.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/EdgeControl.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/EdgeControl.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/EdgeConnector.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/EdgeConnector.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/BehaviourGraphView.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph/BehaviourGraphView.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/Graph.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/GraphGenerators/UtilitySystemCodeGenerator.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/GraphGenerators/UtilitySystemCodeGenerator.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/GraphGenerators/StateMachineCodeGenerator.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/GraphGenerators/StateMachineCodeGenerator.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/GraphGenerators/StackFSMCodeGenerator.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/GraphGenerators/StackFSMCodeGenerator.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/GraphGenerators/GraphCodeGenerator.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/GraphGenerators/GraphCodeGenerator.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/GraphGenerators/CustomGraphCodeGeneratorAttribute.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/GraphGenerators/CustomGraphCodeGeneratorAttribute.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/GraphGenerators/BehaviourTreeCodeGenerator.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/GraphGenerators/BehaviourTreeCodeGenerator.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/GraphGenerators.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/CodeWriter.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/CodeWriter.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/CodeTemplate.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/CodeTemplate.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/CodeGenerationOptions.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/CodeGenerationOptions.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/CodeExpressions.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration/CodeExpressions.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts/CodeGeneration.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Scripts.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Windows/behavioursystemeditorwindow.uxml.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Windows/behavioursystemeditorwindow.uxml
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Windows/alertwindow.uxml.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Windows/alertwindow.uxml
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Windows.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Panels/graphtypeitem.uxml.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Panels/graphtypeitem.uxml
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Panels/generatescriptpanel.uxml.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Panels/generatescriptpanel.uxml
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Panels/creategraphpanel.uxml.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Panels/creategraphpanel.uxml
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Panels.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Elements/node.uxml.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Elements/node.uxml
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Elements/functiondisplay.uxml.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Elements/functiondisplay.uxml
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Elements/extensionview.uxml.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Elements/extensionview.uxml
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Elements/edgetag.uxml.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Elements/edgetag.uxml
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml/Elements.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uxml.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uss/window.uss.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uss/window.uss
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uss/node.uss.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uss/node.uss
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uss/graph.uss.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uss/graph.uss
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uss/default.uss.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uss/default.uss
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/uss.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Templates/UnityPerceptionTemplate.cs.TXT.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Templates/UnityPerceptionTemplate.cs.TXT
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Templates/UnityActionTemplate.cs.TXT.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Templates/UnityActionTemplate.cs.TXT
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Templates/EditorRunnerTemplate.cs.TXT.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Templates/EditorRunnerTemplate.cs.TXT
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Templates/CodeRunnerTemplate.cs.TXT.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Templates/CodeRunnerTemplate.cs.TXT
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Templates/AssetRunnerTemplate.cs.TXT.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Templates/AssetRunnerTemplate.cs.TXT
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Templates.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/push.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/push.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/Graphs/us.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/Graphs/us.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/Graphs/stackfsm.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/Graphs/stackfsm.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/Graphs/fsm.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/Graphs/fsm.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/Graphs/default.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/Graphs/default.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/Graphs/bt.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/Graphs/bt.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/Graphs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/graph.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/graph.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/delete.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/delete.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/code.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/code.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/clear.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/clear.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/add.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons/add.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Icons.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Fonts/Cascadia.ttf.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Fonts/Cascadia.ttf
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources/Fonts.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/Resources.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/BehaviourAPI.UnityToolkit.GUIDesigner.Editor.asmdef.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor/BehaviourAPI.UnityToolkit.GUIDesigner.Editor.asmdef
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer/Editor.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/GUI Designer.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Documentation/Guía Árboles de comportamiento.pdf.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Documentation/Guía Árboles de comportamiento.pdf
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Documentation/Guía Unity Toolkit y Smart Objects.pdf.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Documentation/Guía Unity Toolkit y Smart Objects.pdf
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Documentation/Guía Sistemas de Utilidad.pdf.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Documentation/Guía Sistemas de Utilidad.pdf
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Documentation/Guía Máquinas de estados.pdf.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Documentation/Guía Máquinas de estados.pdf
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Documentation/Guía Editor visual de grafos de comportamiento.pdf.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Documentation/Guía Editor visual de grafos de comportamiento.pdf
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Documentation/Demos.pdf.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Documentation/Demos.pdf
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Documentation.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Textures/msVFX_Stylized Smoke 1_Texture.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Textures/msVFX_Stylized Smoke 1_Texture.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Textures.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/SmartObjects/NavMesh.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/SmartObjects/NavMesh.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/SmartObjects.unity.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/SmartObjects.unity
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/SmartObjects.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/WallTriggerController.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/WallTriggerController.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/TVSmartObject.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/TVSmartObject.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/ToiletSmartObject.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/ToiletSmartObject.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/ShowerSmartObject.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/ShowerSmartObject.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/SeatSmartObject.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/SeatSmartObject.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/SeatRequestData.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/SeatRequestData.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/OvenSmartObject.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/OvenSmartObject.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/FridgeSmartObject.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/FridgeSmartObject.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/DrinkSmartObject.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/DrinkSmartObject.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/DirectSmartObject.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/DirectSmartObject.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/ComputerDesktopSmartObject.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/ComputerDesktopSmartObject.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/ChickenSmartObject.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/ChickenSmartObject.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/BookShelfSmartObject.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/BookShelfSmartObject.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/BedSmartObject.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/BedSmartObject.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/BathubSmartObject.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/BathubSmartObject.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/BathroomDrawerSmartObject.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/BathroomDrawerSmartObject.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/AppleSmartObject.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects/AppleSmartObject.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SmartObjects.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SeatRequestAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SeatRequestAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SeatManager.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/SeatManager.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/NPCPoseController.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/NPCPoseController.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/DemoSmartAgent.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/DemoSmartAgent.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/CameraController.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/CameraController.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/BehaviourRunners/DemoSOUtilityRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/BehaviourRunners/DemoSOUtilityRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/BehaviourRunners/DemoSORunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/BehaviourRunners/DemoSORunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts/BehaviourRunners.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Scripts.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Resources/DemoAgentSettings.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Resources/DemoAgentSettings.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Resources.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Toilet.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Toilet.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Toaster.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Toaster.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Television.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Television.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Sink.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Sink.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Shower.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Shower.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Seat.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Seat.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Radio.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Radio.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Oven.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Oven.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_FridgeSmall.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_FridgeSmall.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Fridge.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Fridge.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_ComputerDesktop.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_ComputerDesktop.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_CoffeeMachine.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_CoffeeMachine.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Chair.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Chair.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Bookshelf.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Bookshelf.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Bed_Double.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Bed_Double.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Bed.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Bed.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Bathtub.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_Bathtub.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_BathroomDrawer.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/SO_BathroomDrawer.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/Player.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/Player.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/msVFX_Stylized Smoke 4.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs/msVFX_Stylized Smoke 4.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Prefabs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/wallWindow.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/wallWindow.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/wallHalf.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/wallHalf.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/wallDoorwayWide.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/wallDoorwayWide.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/wallDoorway.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/wallDoorway.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/wall.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/wall.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/trashcan.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/trashcan.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/toiletSquare.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/toiletSquare.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/toaster.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/toaster.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/televisionModern.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/televisionModern.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/tableRound.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/tableRound.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/tableGlass.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/tableGlass.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/tableCrossCloth.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/tableCrossCloth.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/tableCoffeeGlass.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/tableCoffeeGlass.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/speaker.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/speaker.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/shower.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/shower.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/rugRounded.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/rugRounded.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/rugRound.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/rugRound.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/radio.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/radio.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/pottedPlant.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/pottedPlant.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/loungeSofaCorner.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/loungeSofaCorner.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/loungeSofa.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/loungeSofa.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/lampWall.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/lampWall.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/lampSquareTable.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/lampSquareTable.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/lampSquareFloor.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/lampSquareFloor.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenStoveElectric.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenStoveElectric.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenSink.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenSink.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenMicrowave.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenMicrowave.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenFridgeSmall.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenFridgeSmall.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenFridge.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenFridge.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenCoffeeMachine.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenCoffeeMachine.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenCabinetDrawer.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenCabinetDrawer.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenCabinetCornerRound.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenCabinetCornerRound.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenCabinetCornerInner.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenCabinetCornerInner.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenCabinet.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenCabinet.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenBlender.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/kitchenBlender.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/hoodModern.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/hoodModern.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/floorHalf.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/floorHalf.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/floorFull.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/floorFull.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/doorwayOpen.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/doorwayOpen.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/doorwayFront.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/doorwayFront.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/doorway.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/doorway.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/desk.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/desk.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/computerScreen.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/computerScreen.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/computerMouse.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/computerMouse.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/computerKeyboard.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/computerKeyboard.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/coatRack.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/coatRack.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/chairDesk.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/chairDesk.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/chairCushion.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/chairCushion.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/ceilingFan.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/ceilingFan.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/cardboardBoxOpen.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/cardboardBoxOpen.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/cardboardBoxClosed.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/cardboardBoxClosed.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/cabinetTelevisionDoors.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/cabinetTelevisionDoors.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/cabinetTelevision.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/cabinetTelevision.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/cabinetBedDrawer.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/cabinetBedDrawer.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/books.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/books.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/bookcaseClosedWide.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/bookcaseClosedWide.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/bookcaseClosed.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/bookcaseClosed.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/benchCushionLow.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/benchCushionLow.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/benchCushion.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/benchCushion.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/bedSingle.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/bedSingle.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/bedDouble.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/bedDouble.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/bathtub.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/bathtub.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/bathroomMirror.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/bathroomMirror.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/bathroomCabinetDrawer.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models/bathroomCabinetDrawer.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Models.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Materials/msVFX_Stylized Smoke 1_Material.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Materials/msVFX_Stylized Smoke 1_Material.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Materials/Floor 2.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Materials/Floor 2.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Materials/Floor 1.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Materials/Floor 1.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Materials.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Doc.TXT.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects/Doc.TXT
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/SmartObjects.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Performance test/TestRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Performance test/TestRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Performance test/Test Agent.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Performance test/Test Agent.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Performance test/Performance test.unity.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Performance test/Performance test.unity
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Performance test.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Textures/tree_diffuse.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Textures/tree_diffuse.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Textures/Palette.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Textures/Palette.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Textures.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Scripts/CameraFollow.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Scripts/CameraFollow.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Scripts/BehaviourRunners/PlayerFSMRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Scripts/BehaviourRunners/PlayerFSMRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Scripts/BehaviourRunners/PlayerFSMEditorRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Scripts/BehaviourRunners/PlayerFSMEditorRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Scripts/BehaviourRunners/ChickenFSMRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Scripts/BehaviourRunners/ChickenFSMRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Scripts/BehaviourRunners/ChickenFSMEditorRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Scripts/BehaviourRunners/ChickenFSMEditorRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Scripts/BehaviourRunners.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Scripts.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Prefabs/Test boy FSM.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Prefabs/Test boy FSM.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Prefabs/Rock.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Prefabs/Rock.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Prefabs/Oak_Tree.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Prefabs/Oak_Tree.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Prefabs/Chicken.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Prefabs/Chicken.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Prefabs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Models/rock_05.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Models/rock_05.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Models/Oak_Tree.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Models/Oak_Tree.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Models/model_test boy.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Models/model_test boy.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Models/field of view.FBX.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Models/field of view.FBX
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Models/Chicken.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Models/Chicken.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Models.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/Palette.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/Palette.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/m_red.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/m_red.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/m_oakTree.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/m_oakTree.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/m_grass.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/m_grass.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/m_cube.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/m_cube.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/m_blue.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/m_blue.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/m_black.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/m_black.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/ground.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/ground.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/brown_02.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/brown_02.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/brown_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials/brown_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Materials.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/FSM demoSettings.lighting.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/FSM demoSettings.lighting
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/FSM demo NavMesh/NavMesh.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/FSM demo NavMesh/NavMesh.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/FSM demo NavMesh.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/FSM demo (editor)/NavMesh.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/FSM demo (editor)/NavMesh.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/FSM demo (editor).unity.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/FSM demo (editor).unity
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/FSM demo (editor).meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/FSM demo (code)/NavMesh.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/FSM demo (code)/NavMesh.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/FSM demo (code).unity.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/FSM demo (code).unity
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/FSM demo (code).meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Animator Controller/AC_Chicken.controller.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Animator Controller/AC_Chicken.controller
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Animator Controller.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Animations/Chicken/ChickenWalk.anim.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Animations/Chicken/ChickenWalk.anim
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Animations/Chicken/ChickenJump.anim.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Animations/Chicken/ChickenJump.anim
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Animations/Chicken/ChickenIdle.anim.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Animations/Chicken/ChickenIdle.anim
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Animations/Chicken.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run/Animations.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM - Chicken run.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Textures/Road_6lane_dark02_n.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Textures/Road_6lane_dark02_n.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Textures/Road_6lane_dark02.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Textures/Road_6lane_dark02.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Textures.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/SpawnVehicles.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/SpawnVehicles.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/DestroyVehicles.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/DestroyVehicles.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/BehaviourRunners/RadarFSMRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/BehaviourRunners/RadarFSMRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/BehaviourRunners/RadarFSMEditorRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/BehaviourRunners/RadarFSMEditorRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/BehaviourRunners/RadarDisplay.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/BehaviourRunners/RadarDisplay.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/BehaviourRunners/IRadar.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/BehaviourRunners/IRadar.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/BehaviourRunners/ICar.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/BehaviourRunners/ICar.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/BehaviourRunners/CarFSMRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/BehaviourRunners/CarFSMRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/BehaviourRunners/CarFSMAssetRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/BehaviourRunners/CarFSMAssetRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/BehaviourRunners.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/Actions/LightAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/Actions/LightAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/Actions/ChangeSpeedAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/Actions/ChangeSpeedAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/Actions/BlinkAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/Actions/BlinkAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts/Actions.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Scripts.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Resources/CarBehaviourSystem.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Resources/CarBehaviourSystem.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Resources.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Visual/van (visual).prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Visual/van (visual).prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Visual/truckFlat (visual).prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Visual/truckFlat (visual).prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Visual/taxi (visual).prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Visual/taxi (visual).prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Visual/sedanSports (visual).prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Visual/sedanSports (visual).prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Visual/police (visual).prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Visual/police (visual).prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Visual/firetruck (visual).prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Visual/firetruck (visual).prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Visual/delivery (visual).prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Visual/delivery (visual).prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Visual/ambulance (visual).prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Visual/ambulance (visual).prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Visual.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Radar.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Radar.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Higway.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Higway.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Code/van.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Code/van.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Code/truckFlat.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Code/truckFlat.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Code/taxi.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Code/taxi.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Code/sedanSports.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Code/sedanSports.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Code/police.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Code/police.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Code/firetruck.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Code/firetruck.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Code/delivery.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Code/delivery.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Code/ambulance.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Code/ambulance.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs/Code.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Prefabs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Models/van.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Models/van.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Models/truckFlat.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Models/truckFlat.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Models/taxi.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Models/taxi.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Models/sedanSports.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Models/sedanSports.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Models/police.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Models/police.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Models/firetruck.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Models/firetruck.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Models/delivery.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Models/delivery.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Models/ambulance.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Models/ambulance.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Models.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Materials/TreesMat.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Materials/TreesMat.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Materials/m_grey.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Materials/m_grey.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Materials/GuardRailMat.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Materials/GuardRailMat.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Materials/GrassMat.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Materials/GrassMat.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Materials/Cars_2.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Materials/Cars_2.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Materials/Cars_1.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Materials/Cars_1.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Materials/Bus_2.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Materials/Bus_2.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Materials/Bus_1.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Materials/Bus_1.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Materials/6RoadMat.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Materials/6RoadMat.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/Materials.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/FSM sub FSM demo (editor).unity.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/FSM sub FSM demo (editor).unity
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/FSM sub FSM demo (code).unity.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar/FSM sub FSM demo (code).unity
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + FSM - Radar.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/Scripts/RestarButtonNoKey.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/Scripts/RestarButtonNoKey.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/Scripts/BehaviourRunners/PlayerBTInFSMRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/Scripts/BehaviourRunners/PlayerBTInFSMRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/Scripts/BehaviourRunners/PlayerBTInFSMEditorRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/Scripts/BehaviourRunners/PlayerBTInFSMEditorRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/Scripts/BehaviourRunners/BadBoyRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/Scripts/BehaviourRunners/BadBoyRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/Scripts/BehaviourRunners/BadBoyEditorRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/Scripts/BehaviourRunners/BadBoyEditorRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/Scripts/BehaviourRunners.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/Scripts.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/Prefabs/Test boy comb.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/Prefabs/Test boy comb.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/Prefabs/Test boy comb (Visual).prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/Prefabs/Test boy comb (Visual).prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/Prefabs/Bad boy.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/Prefabs/Bad boy.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/Prefabs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/BT in FSM demo NavMesh/NavMesh.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/BT in FSM demo NavMesh/NavMesh.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/BT in FSM demo NavMesh.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/BT in FSM demo (editor).unity.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/BT in FSM demo (editor).unity
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/BT in FSM demo (code).unity.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy/BT in FSM demo (code).unity
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/FSM + BT - House and Enemy.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Textures/Skybox.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Textures/Skybox.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Textures/restart_button.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Textures/restart_button.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Textures/field.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Textures/field.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Textures.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Prefabs/Test boy BT.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Prefabs/Test boy BT.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Prefabs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Models/model_test boy.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Models/model_test boy.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Models/Materials/player_yellow.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Models/Materials/player_yellow.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Models/Materials/player_red.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Models/Materials/player_red.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Models/Materials/player_green.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Models/Materials/player_green.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Models/Materials/player_black.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Models/Materials/player_black.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Models/Materials.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Models.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Materials/Skybox.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Materials/Skybox.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Materials/lp_houses.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Materials/lp_houses.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Materials/key.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Materials/key.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Materials/field.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Materials/field.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common/Materials.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/Common.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Textures/simple_houses.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Textures/simple_houses.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Textures/Explosion6.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Textures/Explosion6.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Textures/Explosion4.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Textures/Explosion4.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Textures.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Sounds/keyFound.mp3.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Sounds/keyFound.mp3
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Sounds/Explosion.mp3.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Sounds/Explosion.mp3
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Sounds/door_open.wav.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Sounds/door_open.wav
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Sounds.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Scripts/RestartButton.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Scripts/RestartButton.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Scripts/KeyRotation.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Scripts/KeyRotation.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Scripts/Door.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Scripts/Door.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Scripts/DestroyEffect.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Scripts/DestroyEffect.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Scripts/csLightControl.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Scripts/csLightControl.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Scripts/BehaviourRunners/BoyBTRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Scripts/BehaviourRunners/BoyBTRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Scripts/BehaviourRunners/BoyBTEditorRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Scripts/BehaviourRunners/BoyBTEditorRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Scripts/BehaviourRunners.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Scripts.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Prefabs/Test boy BT(Visual).prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Prefabs/Test boy BT(Visual).prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Prefabs/Key.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Prefabs/Key.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Prefabs/house_3.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Prefabs/house_3.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Prefabs/House Boy BT.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Prefabs/House Boy BT.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Prefabs/Explosion.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Prefabs/Explosion.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Prefabs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Models/Materials/pPlane3Mat.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Models/Materials/pPlane3Mat.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Models/Materials.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Models/Key_gold_mat.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Models/Key_gold_mat.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Models/key.obj.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Models/key.obj
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Models/house_3.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Models/house_3.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Models.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Materials/Ring.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Materials/Ring.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Materials/lp_houses.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Materials/lp_houses.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Materials/Explosion6.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Materials/Explosion6.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Materials/Explosion4.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Materials/Explosion4.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Materials.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Behaviour tree demo NavMesh/NavMesh.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Behaviour tree demo NavMesh/NavMesh.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Behaviour tree demo NavMesh.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Behaviour tree demo (editor).unity.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Behaviour tree demo (editor).unity
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Behaviour tree demo (code).unity.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House/Behaviour tree demo (code).unity
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - House.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Textures/TropicalFish02.jpg.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Textures/TropicalFish02.jpg
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Textures/TexturesCom_Various0236_1_seamless_S_COLOR.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Textures/TexturesCom_Various0236_1_seamless_S_COLOR.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Textures/fishing_rod_albedo.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Textures/fishing_rod_albedo.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Textures/Cartoon_water_Albedo.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Textures/Cartoon_water_Albedo.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Textures.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Scripts/FishingRod.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Scripts/FishingRod.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Scripts/BehaviourRunners/FishingBoyBTVisualRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Scripts/BehaviourRunners/FishingBoyBTVisualRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Scripts/BehaviourRunners/FishingBoyBTRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Scripts/BehaviourRunners/FishingBoyBTRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Scripts/BehaviourRunners.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Scripts.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Prefabs/Old boot.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Prefabs/Old boot.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Prefabs/Fish.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Prefabs/Fish.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Prefabs/Basket.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Prefabs/Basket.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Prefabs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Models/TropicalFish02.obj.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Models/TropicalFish02.obj
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Models/old boot.obj.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Models/old boot.obj
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Models/fishingRod.obj.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Models/fishingRod.obj
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Models/basket.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Models/basket.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Models.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Materials/water.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Materials/water.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Materials/tropical fish.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Materials/tropical fish.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Materials/Rope.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Materials/Rope.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Materials/Fishing rod.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Materials/Fishing rod.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Materials/boot.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Materials/boot.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Materials.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/BT Demo (Editor).unity.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/BT Demo (Editor).unity
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/BT Demo (Code).unity.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/BT Demo (Code).unity
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Animators/AC_Fishing rod.controller.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Animators/AC_Fishing rod.controller
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Animators.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Animations/Throwing.anim.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Animations/Throwing.anim
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Animations/Picking up.anim.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Animations/Picking up.anim
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing/Animations.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT - Fishing.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/tomato slice.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/tomato slice.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/pineapple slice.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/pineapple slice.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/pepperoni slice.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/pepperoni slice.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/pepperoni slice-assets/pepperoni slice.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/pepperoni slice-assets/pepperoni slice.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/pepperoni slice-assets.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/pepper slice.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/pepper slice.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/mushroom slice.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/mushroom slice.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/eggplant slice.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/eggplant slice.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/cheese slice.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/cheese slice.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/cheese slice-assets/cheese slice.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/cheese slice-assets/cheese slice.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures/cheese slice-assets.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Textures.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Scripts/RecipePaper.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Scripts/RecipePaper.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Scripts/Recipe.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Scripts/Recipe.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Scripts/Pizza.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Scripts/Pizza.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Scripts/Ingredient.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Scripts/Ingredient.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Scripts/BehaviourRunners/PizzaBoyRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Scripts/BehaviourRunners/PizzaBoyRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Scripts/BehaviourRunners/PizzaBoyEditorRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Scripts/BehaviourRunners/PizzaBoyEditorRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Scripts/BehaviourRunners.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Scripts/AlwaysLookAtCamera.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Scripts/AlwaysLookAtCamera.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Scripts.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/recipes/vegetarian.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/recipes/vegetarian.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/recipes/hawaiian.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/recipes/hawaiian.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/recipes/ham and cheese.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/recipes/ham and cheese.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/recipes.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/ingredients/tomatobase.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/ingredients/tomatobase.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/ingredients/tomato.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/ingredients/tomato.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/ingredients/pizzamass.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/ingredients/pizzamass.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/ingredients/pineapple.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/ingredients/pineapple.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/ingredients/pepper.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/ingredients/pepper.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/ingredients/peperoni.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/ingredients/peperoni.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/ingredients/mushroom.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/ingredients/mushroom.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/ingredients/eggplant.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/ingredients/eggplant.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/ingredients/cheese.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/ingredients/cheese.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources/ingredients.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Resources.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Test boy chef.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Test boy chef.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Recipe.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Recipe.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Tomato.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Tomato.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Tomato slice.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Tomato slice.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Pizza tomato.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Pizza tomato.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Pizza base.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Pizza base.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Pineapple.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Pineapple.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Pineapple slice.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Pineapple slice.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Pepperoni.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Pepperoni.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Pepperoni slice.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Pepperoni slice.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Pepper.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Pepper.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Pepper slice.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Pepper slice.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Mushroom.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Mushroom.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Mushroom slice.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Mushroom slice.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Eggplant.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Eggplant.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Eggplant slice.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Eggplant slice.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Cheese.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Cheese.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Cheese slice.prefab.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients/Cheese slice.prefab
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs/Ingredients.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Prefabs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Textures/oven_01.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Textures/oven_01.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Textures/hotPlates_01.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Textures/hotPlates_01.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Textures/dif_cuttingBoard_01.png.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Textures/dif_cuttingBoard_01.png
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Textures.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/trashBag.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/trashBag.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-pot_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-pot_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-pan_metal.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-pan_metal.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-pan_black.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-pan_black.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-oven_top.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-oven_top.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-oven_door.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-oven_door.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-oven_black.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-oven_black.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-No Name.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-No Name.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-Material \#44.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-Material \#44.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-Material \#37.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-Material \#37.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-Material \#25.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-Material \#25.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-kitchenBase_sink.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-kitchenBase_sink.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-kitchenBase_red.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-kitchenBase_red.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-kitchenBase_base.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-kitchenBase_base.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-hotPlates_hotPlates.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-hotPlates_hotPlates.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-hotPlates_black.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-hotPlates_black.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-glass_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-glass_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_schedule.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_schedule.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_red.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_red.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_inox.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_inox.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_grey.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_grey.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_draw_02.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_draw_02.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_draw_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_draw_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_condenser.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_condenser.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_card_03.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_card_03.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_card_02.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_card_02.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_card_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_card_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_black.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-fridge_01_black.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-dish_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-dish_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-cuttingBoard_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-cuttingBoard_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-chukies_02.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-chukies_02.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-chukies_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-chukies_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-chair_01_metal.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-chair_01_metal.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-chair_01_leather.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-chair_01_leather.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-broom_01_grey.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-broom_01_grey.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-broom_01_brushBottom.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-broom_01_brushBottom.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-broom_01_brush.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-broom_01_brush.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-broom_01_black.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-broom_01_black.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-bowl_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-bowl_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-bean_01_metal.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-bean_01_metal.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-bean_01_black.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/kitchen_creation_kit-bean_01_black.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/hotPlates_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/hotPlates_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_schedule.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_schedule.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_red.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_red.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_inox.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_inox.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_grey.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_grey.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_draw_02.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_draw_02.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_draw_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_draw_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_condenser.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_condenser.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_card_03.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_card_03.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_card_02.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_card_02.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_card_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_card_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_black.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/fridge_01-fridge_01_black.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_schedule_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_schedule_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_knife_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_knife_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_cuttingBoard_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_cuttingBoard_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_condenser.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_condenser.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_chuckies_02.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_chuckies_02.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_chuckies_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_chuckies_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_childDrawing_02.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_childDrawing_02.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_childDrawing_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_childDrawing_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_cheese_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_cheese_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_card_03.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_card_03.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_card_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_card_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_broom_brushBottom.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_broom_brushBottom.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_broom_brush.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_broom_brush.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_bread_01.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials/dif_bread_01.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/Materials.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/kitchen_creation_kit.FBX.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/kitchen_creation_kit.FBX
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/fridge_01.FBX.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit/fridge_01.FBX
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/kitchen_creation_kit.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/chefs_hat.fbx.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models/chefs_hat.fbx
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Models.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/tomato slice.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/tomato slice.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/pizza tomato.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/pizza tomato.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/pizza base.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/pizza base.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/pineapple slice.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/pineapple slice.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/pepperoni slice.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/pepperoni slice.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/pepper slice.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/pepper slice.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/paper note texture.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/paper note texture.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/mushroom slice.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/mushroom slice.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/eggplant slice.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/eggplant slice.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/cheese slice.mat.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials/cheese slice.mat
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Materials.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/FSM in BT demo/NavMesh.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/FSM in BT demo/NavMesh.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/FSM in BT demo.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/FSM in BT demo NavMesh/NavMesh.asset.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/FSM in BT demo NavMesh/NavMesh.asset
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/FSM in BT demo NavMesh.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/FSM + BT + US Demo - Editor.unity.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/FSM + BT + US Demo - Editor.unity
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/FSM + BT + US Demo - Code.unity.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/FSM + BT + US Demo - Code.unity
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Fonts/Simply Glamorous.ttf.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Fonts/Simply Glamorous.ttf
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Fonts/digital-7.ttf.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Fonts/digital-7.ttf
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Fonts.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Animator Controller/AC_RecipeNote.controller.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Animator Controller/AC_RecipeNote.controller
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Animator Controller.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Animations/EnterRecipeNote.anim.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Animations/EnterRecipeNote.anim
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza/Animations.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo/BT + FSM + US - Pizza.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Demo.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/UnityExecutionContext.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/UnityExecutionContext.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Perceptions/UnityTimerPerception.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Perceptions/UnityTimerPerception.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Perceptions/UnityPerception.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Perceptions/UnityPerception.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Perceptions/IsLookingAtPerception.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Perceptions/IsLookingAtPerception.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Perceptions/IsGroundedPerception.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Perceptions/IsGroundedPerception.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Perceptions/DistancePerception.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Perceptions/DistancePerception.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Perceptions.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/UnityAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/UnityAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Talk/TalkAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Talk/TalkAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Talk.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Sprite/FlipSpriteAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Sprite/FlipSpriteAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Sprite/ChangeTintAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Sprite/ChangeTintAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Sprite/ChangeSpriteAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Sprite/ChangeSpriteAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Sprite/ChangeAlphaAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Sprite/ChangeAlphaAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Sprite.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Sound/SetVolumeAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Sound/SetVolumeAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Sound/PlaySoundAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Sound/PlaySoundAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Sound.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Movement/WalkAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Movement/WalkAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Movement/PatrolAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Movement/PatrolAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Movement/PathingAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Movement/PathingAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Movement/MoveToMousePosAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Movement/MoveToMousePosAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Movement/FleeAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Movement/FleeAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Movement/ChaseAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Movement/ChaseAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Movement.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/DelayAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/DelayAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Debug/DebugLogAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Debug/DebugLogAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Debug/DebugBreakAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Debug/DebugBreakAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions/Debug.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/Unity Actions.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/SelectionGroupAttribute.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/SelectionGroupAttribute.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/ITaskDisplayable.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks/ITaskDisplayable.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Tasks.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/RequestAction/UnityRequestAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/RequestAction/UnityRequestAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/RequestAction/TargetRequestAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/RequestAction/TargetRequestAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/RequestAction/RandomRequestAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/RequestAction/RandomRequestAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/RequestAction/NeedRequestAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/RequestAction/NeedRequestAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/RequestAction.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Data/SmartAgentSettings.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Data/SmartAgentSettings.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Data/SerializedMap.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Data/SerializedMap.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Data/NeedMap.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Data/NeedMap.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Data/InteractionMap.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Data/InteractionMap.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Data.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Components/SmartObjectManager.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Components/SmartObjectManager.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Components/SmartObjectLocator.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Components/SmartObjectLocator.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Components/SmartObject.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Components/SmartObject.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Components/SmartInteractionProvider.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Components/SmartInteractionProvider.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Components/SmartAgent.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Components/SmartAgent.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Components/SimpleSmartObject.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Components/SimpleSmartObject.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Components/CompoundSmartObject.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Components/CompoundSmartObject.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects/Components.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/SmartObjects.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Nodes/UnityTimerDecorator.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Nodes/UnityTimerDecorator.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Nodes/UnityCurveFactor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Nodes/UnityCurveFactor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Nodes.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Editor/NeedMapPropertyDrawer.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Editor/NeedMapPropertyDrawer.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Editor/InteractionMapPropertyDrawer.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Editor/InteractionMapPropertyDrawer.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Editor/BehaviourAPI.UnityToolkit.Editor.asmdef.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Editor/BehaviourAPI.UnityToolkit.Editor.asmdef
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Editor.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/TransformMovementComponent.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/TransformMovementComponent.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/TMProTalkComponent.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/TMProTalkComponent.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/TextTalkComponent.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/TextTalkComponent.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/NavmeshAgentMovement.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/NavmeshAgentMovement.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/ITalkComponent.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/ITalkComponent.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/ISoundComponent.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/ISoundComponent.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/IRendererComponent.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/IRendererComponent.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/IMovementComponent.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/IMovementComponent.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/GUISpriteComponent.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/GUISpriteComponent.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/BehaviourRunner.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/BehaviourRunner.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/BasicSpriteComponent.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/BasicSpriteComponent.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/BasicSoundComponent.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components/BasicSoundComponent.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/Components.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/BehaviourAPI.UnityToolkit.asmdef.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit/BehaviourAPI.UnityToolkit.asmdef
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/UnityToolkit.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/UtilitySystem.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/UtilitySystem.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/UtilityNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/UtilityNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/UtilityElements/UtilitySelectableNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/UtilityElements/UtilitySelectableNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/UtilityElements/UtilityExitNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/UtilityElements/UtilityExitNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/UtilityElements/UtilityExecutableNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/UtilityElements/UtilityExecutableNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/UtilityElements/UtilityBucket.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/UtilityElements/UtilityBucket.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/UtilityElements/UtilityAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/UtilityElements/UtilityAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/UtilityElements.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/LeafFactors/VariableFactor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/LeafFactors/VariableFactor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/LeafFactors/LeafFactor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/LeafFactors/LeafFactor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/LeafFactors/ConstantFactor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/LeafFactors/ConstantFactor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/LeafFactors.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/FusionFactors/WeightedFusionFactor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/FusionFactors/WeightedFusionFactor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/FusionFactors/MinFusionFactor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/FusionFactors/MinFusionFactor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/FusionFactors/MaxFusionFactor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/FusionFactors/MaxFusionFactor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/FusionFactors/FusionFactor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/FusionFactors/FusionFactor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/FusionFactors.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/Factor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/Factor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/CurveFactors/SigmoidCurveFactor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/CurveFactors/SigmoidCurveFactor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/CurveFactors/PointedCurveFactor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/CurveFactors/PointedCurveFactor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/CurveFactors/LinearCurveFactor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/CurveFactors/LinearCurveFactor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/CurveFactors/ExponentialCurverFactor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/CurveFactors/ExponentialCurverFactor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/CurveFactors/CustomCurveFactor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/CurveFactors/CustomCurveFactor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/CurveFactors/CurveFactor.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/CurveFactors/CurveFactor.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors/CurveFactors.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/Factors.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/BehaviourAPI.UtilitySystems.asmdef.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems/BehaviourAPI.UtilitySystems.asmdef
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/UtilitySystems.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/Transitions/Transition.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/Transitions/Transition.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/Transitions/StateTransition.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/Transitions/StateTransition.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/Transitions/ExitTransition.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/Transitions/ExitTransition.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/Transitions.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/States/State.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/States/State.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/States/ProbabilisticState.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/States/ProbabilisticState.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/States.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/StackFSMs/StackTransition.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/StackFSMs/StackTransition.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/StackFSMs/StackFSM.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/StackFSMs/StackFSM.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/StackFSMs/PushTransition.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/StackFSMs/PushTransition.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/StackFSMs/PopTransition.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/StackFSMs/PopTransition.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/StackFSMs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/FSMNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/FSMNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/FSM.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/FSM.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/BehaviourAPI.StateMachines.csproj.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/BehaviourAPI.StateMachines.asmdef.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines/BehaviourAPI.StateMachines.asmdef
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/StateMachines.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/SmartObjects/SmartInteraction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/SmartObjects/SmartInteraction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/SmartObjects/RequestData.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/SmartObjects/RequestData.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/SmartObjects/RequestAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/SmartObjects/RequestAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/SmartObjects/MissingAgentException.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/SmartObjects/MissingAgentException.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/SmartObjects/ISmartObject.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/SmartObjects/ISmartObject.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/SmartObjects/ISmartAgent.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/SmartObjects/ISmartAgent.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/SmartObjects/DirectRequestAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/SmartObjects/DirectRequestAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/SmartObjects/BehaviourAPI.SmartObjects.asmdef.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/SmartObjects/BehaviourAPI.SmartObjects.asmdef
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/SmartObjects.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Status.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Status.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Serialization/BehaviourGraphBuilder.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Serialization/BehaviourGraphBuilder.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Serialization.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/PushPerception.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/PushPerception.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Perceptions/TimerPerception.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Perceptions/TimerPerception.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Perceptions/Perception.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Perceptions/Perception.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Perceptions/OrPerception.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Perceptions/OrPerception.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Perceptions/ExecutionStatusPerception.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Perceptions/ExecutionStatusPerception.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Perceptions/ConditionPerception.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Perceptions/ConditionPerception.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Perceptions/CompoundPerception.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Perceptions/CompoundPerception.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Perceptions/AndPerception.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Perceptions/AndPerception.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Perceptions.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Node.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Node.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/IStatusHandler.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/IStatusHandler.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/IPushActivable.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/IPushActivable.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/ExecutionInterruptOptions.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/ExecutionInterruptOptions.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/ExecutionContext.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/ExecutionContext.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Exceptions/MissingSubsystemException.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Exceptions/MissingSubsystemException.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Exceptions/MissingChildException.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Exceptions/MissingChildException.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Exceptions/MissingActionException.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Exceptions/MissingActionException.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Exceptions/ExecutionStatusException.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Exceptions/ExecutionStatusException.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Exceptions/EmptyGraphException.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Exceptions/EmptyGraphException.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Exceptions.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/behaviourGraph.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/behaviourGraph.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/BehaviourEngine.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/BehaviourEngine.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/BehaviourAPI.Core.asmdef.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/BehaviourAPI.Core.asmdef
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Actions/SubsystemAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Actions/SubsystemAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Actions/SimpleAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Actions/SimpleAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Actions/SerialAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Actions/SerialAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Actions/SequenceAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Actions/SequenceAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Actions/ParallelAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Actions/ParallelAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Actions/FunctionalAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Actions/FunctionalAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Actions/CompoundAction.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Actions/CompoundAction.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Actions/Action.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Actions/Action.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core/Actions.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/Core.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/LeafNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/LeafNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/TimerDecoratorNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/TimerDecoratorNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/SwitchDecoratorNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/SwitchDecoratorNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/SuccederNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/SuccederNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/ReactiveConditionNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/ReactiveConditionNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/LoopUntilNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/LoopUntilNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/LoopNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/LoopNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/InverterNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/InverterNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/DirectDecoratorNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/DirectDecoratorNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/DecoratorNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/DecoratorNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/ConditionNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators/ConditionNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Decorators.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Composites/SerialCompositeNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Composites/SerialCompositeNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Composites/SequencerNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Composites/SequencerNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Composites/SelectorNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Composites/SelectorNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Composites/RandomBranchNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Composites/RandomBranchNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Composites/ProbabilityBranchNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Composites/ProbabilityBranchNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Composites/ParallelCompositeNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Composites/ParallelCompositeNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Composites/FunctionBranchNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Composites/FunctionBranchNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Composites/CompositeNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Composites/CompositeNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Composites/BranchNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Composites/BranchNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/Composites.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/BTNode.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/BTNode.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/BehaviourTree.cs.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/BehaviourTree.cs
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/BehaviourAPI.BehaviourTrees.asmdef.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees/BehaviourAPI.BehaviourTrees.asmdef
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API/BehaviourTrees.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API/C\# API.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package/Behaviour API.meta
+PracticaComportamientos/Assets/BehaviourAPI Unity Package.meta
