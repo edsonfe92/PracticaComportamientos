@@ -19,7 +19,10 @@ public class SheriffBH : MonoBehaviour
         LeafNode patrolToBank = bt.CreateLeafNode("patrolToBank", toBank);
         LeafNode patrolToTavern = bt.CreateLeafNode("patrolToTavern", toTavern);
         LeafNode patrolToMines = bt.CreateLeafNode("patrolToMines", toMines);
-        
+
+        SequencerNode seq = bt.CreateComposite<SequencerNode>(false, patrolToBank,patrolToTavern,patrolToMines);
+        LoopNode loop = bt.CreateDecorator<LoopNode>(seq);
+            
         bt.SetRootNode(patrolToBank);
 
         bt.Start();
