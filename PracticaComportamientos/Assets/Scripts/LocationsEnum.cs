@@ -6,6 +6,7 @@ public enum Location
     MINA = 2,
     ENTRADA1 = 3,
     ENTRADA2 = 4,
-    ENTRADA3 = 5
+    ENTRADA3 = 5,
+    FUERA = 6
 
 }
