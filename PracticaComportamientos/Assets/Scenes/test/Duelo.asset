@@ -1,0 +1,661 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db249917b7c50574eaa600c74aff1437, type: 3}
+  m_Name: Duelo
+  m_EditorClassIdentifier: 
+  data:
+    graphs:
+    - name: Duelo
+      id: c469104a-9cbc-4b93-a513-6af8495e5ac9
+      graph:
+        rid: 6454280766627774498
+      nodes:
+      - name: EnMovimiento
+        id: e2d51cdc-327b-47b4-ad11-c3bb3e99cacd
+        position: {x: 447, y: -257}
+        node:
+          rid: 6454280766627774499
+        references:
+        - fieldName: Variable
+          value:
+            rid: 6454280766627774500
+          fieldType: System.Func`1[[System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089]], mscorlib, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        parentIds:
+        - 6d9aa9b9-404d-4ec3-9ce9-6d42799858df
+        childIds: []
+      - name: Posicion
+        id: 7faaa1ee-7f9c-4bb0-bc0a-37f45d221903
+        position: {x: 445, y: -81}
+        node:
+          rid: 6454280766627774501
+        references:
+        - fieldName: Variable
+          value:
+            rid: 6454280766627774502
+          fieldType: System.Func`1[[System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089]], mscorlib, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        parentIds:
+        - 19f65e90-85e4-46d1-8a22-8832d050e990
+        - 9468bf1d-a986-4963-b9a6-23cd5bf199f4
+        childIds: []
+      - name: NDR
+        id: 17d5bed1-6f42-4728-b2c7-177c82f16208
+        position: {x: 456, y: 350}
+        node:
+          rid: 6454280766627774503
+        references:
+        - fieldName: Variable
+          value:
+            rid: 6454280766627774504
+          fieldType: System.Func`1[[System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089]], mscorlib, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        parentIds:
+        - ca8f454e-e74c-416c-b638-edb125fc2520
+        childIds: []
+      - name: Municion
+        id: ca8f454e-e74c-416c-b638-edb125fc2520
+        position: {x: 817, y: 343}
+        node:
+          rid: 6454280766627774505
+        references: []
+        parentIds:
+        - a8546e7d-fb86-4487-816c-cac0823ae8c7
+        childIds:
+        - 17d5bed1-6f42-4728-b2c7-177c82f16208
+      - name: Recargar
+        id: a8546e7d-fb86-4487-816c-cac0823ae8c7
+        position: {x: 1262, y: 364}
+        node:
+          rid: 6454280766627774506
+        references:
+        - fieldName: Action
+          value:
+            rid: 6454280766627774519
+          fieldType: BehaviourAPI.Core.Actions.Action, BehaviourAPI.Core, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        parentIds: []
+        childIds:
+        - ca8f454e-e74c-416c-b638-edb125fc2520
+      - name: Expuesto
+        id: 6d9aa9b9-404d-4ec3-9ce9-6d42799858df
+        position: {x: 806, y: -265}
+        node:
+          rid: 6454280766627774508
+        references: []
+        parentIds:
+        - 26ed30ee-918a-4c3a-93b9-745ed6b526d0
+        childIds:
+        - e2d51cdc-327b-47b4-ad11-c3bb3e99cacd
+      - name: Apuntar
+        id: 26ed30ee-918a-4c3a-93b9-745ed6b526d0
+        position: {x: 1149, y: -144}
+        node:
+          rid: 6454280766627774509
+        references: []
+        parentIds:
+        - 9cea1bd7-de53-43ba-97b6-17b8c9844aaf
+        childIds:
+        - 6d9aa9b9-404d-4ec3-9ce9-6d42799858df
+        - 19f65e90-85e4-46d1-8a22-8832d050e990
+      - name: Cubierto
+        id: 19f65e90-85e4-46d1-8a22-8832d050e990
+        position: {x: 801, y: -79}
+        node:
+          rid: 6454280766627774510
+        references: []
+        parentIds:
+        - 26ed30ee-918a-4c3a-93b9-745ed6b526d0
+        childIds:
+        - 7faaa1ee-7f9c-4bb0-bc0a-37f45d221903
+      - name: Disparar
+        id: 9cea1bd7-de53-43ba-97b6-17b8c9844aaf
+        position: {x: 1469, y: -148}
+        node:
+          rid: 6454280766627774511
+        references:
+        - fieldName: Action
+          value:
+            rid: 6454280766627774517
+          fieldType: BehaviourAPI.Core.Actions.Action, BehaviourAPI.Core, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        parentIds: []
+        childIds:
+        - 26ed30ee-918a-4c3a-93b9-745ed6b526d0
+      - name: ATiro
+        id: 9468bf1d-a986-4963-b9a6-23cd5bf199f4
+        position: {x: 804, y: 124}
+        node:
+          rid: 6454280766627774513
+        references: []
+        parentIds:
+        - f6293b78-decc-4cb0-9fe1-4b549598df60
+        childIds:
+        - 7faaa1ee-7f9c-4bb0-bc0a-37f45d221903
+      - name: Cubrirse
+        id: f6293b78-decc-4cb0-9fe1-4b549598df60
+        position: {x: 1228, y: 125}
+        node:
+          rid: 6454280766627774514
+        references:
+        - fieldName: Action
+          value:
+            rid: 6454280766627774518
+          fieldType: BehaviourAPI.Core.Actions.Action, BehaviourAPI.Core, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        parentIds: []
+        childIds:
+        - 9468bf1d-a986-4963-b9a6-23cd5bf199f4
+    - name: Main
+      id: 95fb148f-5e6f-4ee1-939c-158e22778f23
+      graph:
+        rid: 6454280766627774520
+      nodes:
+      - name: Loop
+        id: 3774f76f-2f4b-4700-893f-3a3b8db0bbea
+        position: {x: 124, y: -250}
+        node:
+          rid: 6454280766627774522
+        references: []
+        parentIds: []
+        childIds:
+        - a80117a0-98c6-405b-bb3a-61cf657a1bc7
+      - name: Selector
+        id: a80117a0-98c6-405b-bb3a-61cf657a1bc7
+        position: {x: 129, y: -94}
+        node:
+          rid: 6454280766627774524
+        references: []
+        parentIds:
+        - 3774f76f-2f4b-4700-893f-3a3b8db0bbea
+        childIds:
+        - d0c68f27-f861-48b6-ac1c-54faa9cb1305
+        - 50126405-e231-4bca-a993-969ec4716b7a
+      - name: 
+        id: 50126405-e231-4bca-a993-969ec4716b7a
+        position: {x: 335, y: 82}
+        node:
+          rid: 6454280766627774525
+        references: []
+        parentIds:
+        - a80117a0-98c6-405b-bb3a-61cf657a1bc7
+        childIds:
+        - be85671f-36ef-498c-b139-007bd91d789d
+        - fcb759f9-d130-451c-94b3-636511fe6c07
+      - name: HayEnemigo
+        id: be85671f-36ef-498c-b139-007bd91d789d
+        position: {x: 235, y: 248}
+        node:
+          rid: 6454280766627774527
+        references:
+        - fieldName: Perception
+          value:
+            rid: 6454280766627774528
+          fieldType: BehaviourAPI.Core.Perceptions.Perception, BehaviourAPI.Core,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        parentIds:
+        - 50126405-e231-4bca-a993-969ec4716b7a
+        childIds: []
+      - name: 
+        id: fcb759f9-d130-451c-94b3-636511fe6c07
+        position: {x: 526, y: 251}
+        node:
+          rid: 6454280766627774531
+        references: []
+        parentIds:
+        - 50126405-e231-4bca-a993-969ec4716b7a
+        childIds:
+        - dbba79d1-44ba-492a-93d4-2fce98b8066d
+        - 1b7c95c6-d5de-40e8-81ee-4c7f4cb23a4f
+        - 131f4bce-8cb6-4f49-b157-1cdeca3880be
+      - name: 
+        id: dbba79d1-44ba-492a-93d4-2fce98b8066d
+        position: {x: 249, y: 506}
+        node:
+          rid: 6454280766627774532
+        references: []
+        parentIds:
+        - fcb759f9-d130-451c-94b3-636511fe6c07
+        childIds:
+        - f7c72083-c0be-4120-9383-ef7c16b34195
+        - 7bfca2ea-39fb-424a-839a-d4925a2d7867
+      - name: 
+        id: 1b7c95c6-d5de-40e8-81ee-4c7f4cb23a4f
+        position: {x: 694, y: 513}
+        node:
+          rid: 6454280766627774533
+        references: []
+        parentIds:
+        - fcb759f9-d130-451c-94b3-636511fe6c07
+        childIds:
+        - a6c6c84d-ab02-4a20-aa12-a62dbfa76d05
+        - 96cf17fb-ac74-45b6-a3f8-a9e4b53e656d
+      - name: Detener
+        id: 131f4bce-8cb6-4f49-b157-1cdeca3880be
+        position: {x: 1106, y: 469}
+        node:
+          rid: 6454280766627774534
+        references:
+        - fieldName: Action
+          value:
+            rid: 6454280766627774536
+          fieldType: BehaviourAPI.Core.Actions.Action, BehaviourAPI.Core, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        parentIds:
+        - fcb759f9-d130-451c-94b3-636511fe6c07
+        childIds: []
+      - name: EstaResistiendose
+        id: f7c72083-c0be-4120-9383-ef7c16b34195
+        position: {x: 84, y: 670}
+        node:
+          rid: 6454280766627774537
+        references:
+        - fieldName: Perception
+          value:
+            rid: 6454280766627774538
+          fieldType: BehaviourAPI.Core.Perceptions.Perception, BehaviourAPI.Core,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        parentIds:
+        - dbba79d1-44ba-492a-93d4-2fce98b8066d
+        childIds: []
+      - name: Duelo
+        id: 7bfca2ea-39fb-424a-839a-d4925a2d7867
+        position: {x: 367, y: 684}
+        node:
+          rid: 6454280766627774539
+        references:
+        - fieldName: Action
+          value:
+            rid: 6454280766627774540
+          fieldType: BehaviourAPI.Core.Actions.Action, BehaviourAPI.Core, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        parentIds:
+        - dbba79d1-44ba-492a-93d4-2fce98b8066d
+        childIds: []
+      - name: Patrullar
+        id: d0c68f27-f861-48b6-ac1c-54faa9cb1305
+        position: {x: -40, y: 92}
+        node:
+          rid: 6454280766627774541
+        references:
+        - fieldName: Action
+          value:
+            rid: 6454280766627774542
+          fieldType: BehaviourAPI.Core.Actions.Action, BehaviourAPI.Core, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        parentIds:
+        - a80117a0-98c6-405b-bb3a-61cf657a1bc7
+        childIds: []
+      - name: EstaRobando
+        id: a6c6c84d-ab02-4a20-aa12-a62dbfa76d05
+        position: {x: 680, y: 698}
+        node:
+          rid: 6454280766627774543
+        references:
+        - fieldName: Perception
+          value:
+            rid: 6454280766627774544
+          fieldType: BehaviourAPI.Core.Perceptions.Perception, BehaviourAPI.Core,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        parentIds:
+        - 1b7c95c6-d5de-40e8-81ee-4c7f4cb23a4f
+        childIds: []
+      - name: Disparar
+        id: 96cf17fb-ac74-45b6-a3f8-a9e4b53e656d
+        position: {x: 975, y: 706}
+        node:
+          rid: 6454280766627774545
+        references:
+        - fieldName: Action
+          value:
+            rid: 6454280766627774546
+          fieldType: BehaviourAPI.Core.Actions.Action, BehaviourAPI.Core, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        parentIds:
+        - 1b7c95c6-d5de-40e8-81ee-4c7f4cb23a4f
+        childIds: []
+      - name: 
+        id: b2bef2fc-23de-42a1-8ffa-2831ad65b305
+        position: {x: 666, y: 64}
+        node:
+          rid: 6454280766627774550
+        references:
+        - fieldName: Action
+          value:
+            rid: 6454280766627774553
+          fieldType: BehaviourAPI.Core.Actions.Action, BehaviourAPI.Core, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        parentIds: []
+        childIds: []
+    pushPerceptions: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 6454280766627774498
+      type: {class: UtilitySystem, ns: BehaviourAPI.UtilitySystems, asm: BehaviourAPI.UtilitySystems}
+      data:
+        Inertia: 1.3
+    - rid: 6454280766627774499
+      type: {class: VariableFactor, ns: BehaviourAPI.UtilitySystems, asm: BehaviourAPI.UtilitySystems}
+      data:
+        PullingEnabled: 1
+        min: 0
+        max: 1
+    - rid: 6454280766627774500
+      type: {class: SerializedContextMethod, ns: BehaviourAPI.UnityToolkit.GUIDesigner.Framework, asm: BehaviourAPI.UnityToolkit.GUIDesigner.Framework}
+      data:
+        componentName: 
+        methodName: MovementFactor
+    - rid: 6454280766627774501
+      type: {class: VariableFactor, ns: BehaviourAPI.UtilitySystems, asm: BehaviourAPI.UtilitySystems}
+      data:
+        PullingEnabled: 1
+        min: 0
+        max: 1
+    - rid: 6454280766627774502
+      type: {class: SerializedContextMethod, ns: BehaviourAPI.UnityToolkit.GUIDesigner.Framework, asm: BehaviourAPI.UnityToolkit.GUIDesigner.Framework}
+      data:
+        componentName: 
+        methodName: PositionFactor
+    - rid: 6454280766627774503
+      type: {class: VariableFactor, ns: BehaviourAPI.UtilitySystems, asm: BehaviourAPI.UtilitySystems}
+      data:
+        PullingEnabled: 1
+        min: 0
+        max: 6
+    - rid: 6454280766627774504
+      type: {class: SerializedContextMethod, ns: BehaviourAPI.UnityToolkit.GUIDesigner.Framework, asm: BehaviourAPI.UnityToolkit.GUIDesigner.Framework}
+      data:
+        componentName: 
+        methodName: AmmoFactor
+    - rid: 6454280766627774505
+      type: {class: SigmoidCurveFactor, ns: BehaviourAPI.UtilitySystems, asm: BehaviourAPI.UtilitySystems}
+      data:
+        PullingEnabled: 1
+        GrownRate: 10
+        Midpoint: 0.5
+    - rid: 6454280766627774506
+      type: {class: UtilityAction, ns: BehaviourAPI.UtilitySystems, asm: BehaviourAPI.UtilitySystems}
+      data:
+        PullingEnabled: 0
+        FinishSystemOnComplete: 1
+    - rid: 6454280766627774508
+      type: {class: LinearCurveFactor, ns: BehaviourAPI.UtilitySystems, asm: BehaviourAPI.UtilitySystems}
+      data:
+        PullingEnabled: 1
+        Slope: 1
+        YIntercept: 0
+    - rid: 6454280766627774509
+      type: {class: WeightedFusionFactor, ns: BehaviourAPI.UtilitySystems, asm: BehaviourAPI.UtilitySystems}
+      data:
+        PullingEnabled: 1
+        Weights:
+        - 0.6
+        - 0.4
+    - rid: 6454280766627774510
+      type: {class: LinearCurveFactor, ns: BehaviourAPI.UtilitySystems, asm: BehaviourAPI.UtilitySystems}
+      data:
+        PullingEnabled: 1
+        Slope: -1
+        YIntercept: 1
+    - rid: 6454280766627774511
+      type: {class: UtilityAction, ns: BehaviourAPI.UtilitySystems, asm: BehaviourAPI.UtilitySystems}
+      data:
+        PullingEnabled: 0
+        FinishSystemOnComplete: 1
+    - rid: 6454280766627774513
+      type: {class: LinearCurveFactor, ns: BehaviourAPI.UtilitySystems, asm: BehaviourAPI.UtilitySystems}
+      data:
+        PullingEnabled: 1
+        Slope: 1
+        YIntercept: 0
+    - rid: 6454280766627774514
+      type: {class: UtilityAction, ns: BehaviourAPI.UtilitySystems, asm: BehaviourAPI.UtilitySystems}
+      data:
+        PullingEnabled: 0
+        FinishSystemOnComplete: 1
+    - rid: 6454280766627774517
+      type: {class: CustomAction, ns: BehaviourAPI.UnityToolkit.GUIDesigner.Framework, asm: BehaviourAPI.UnityToolkit.GUIDesigner.Framework}
+      data:
+        start:
+          componentName: 
+          methodName: EnemyDetected
+        update:
+          componentName: 
+          methodName: EnemyShot
+        stop:
+          componentName: 
+          methodName: EnemyKilled
+        pause:
+          componentName: 
+          methodName: Reloading
+        unpause:
+          componentName: 
+          methodName: EndReload
+    - rid: 6454280766627774518
+      type: {class: CustomAction, ns: BehaviourAPI.UnityToolkit.GUIDesigner.Framework, asm: BehaviourAPI.UnityToolkit.GUIDesigner.Framework}
+      data:
+        start:
+          componentName: 
+          methodName: CoverDetected
+        update:
+          componentName: 
+          methodName: PauseShooting
+        stop:
+          componentName: 
+          methodName: DetectedByEnemy
+        pause:
+          componentName: 
+          methodName: 
+        unpause:
+          componentName: 
+          methodName: 
+    - rid: 6454280766627774519
+      type: {class: CustomAction, ns: BehaviourAPI.UnityToolkit.GUIDesigner.Framework, asm: BehaviourAPI.UnityToolkit.GUIDesigner.Framework}
+      data:
+        start:
+          componentName: 
+          methodName: MissingBullets
+        update:
+          componentName: 
+          methodName: Reloading
+        stop:
+          componentName: 
+          methodName: EndReload
+        pause:
+          componentName: 
+          methodName: 
+        unpause:
+          componentName: 
+          methodName: 
+    - rid: 6454280766627774520
+      type: {class: BehaviourTree, ns: BehaviourAPI.BehaviourTrees, asm: BehaviourAPI.BehaviourTrees}
+    - rid: 6454280766627774522
+      type: {class: LoopNode, ns: BehaviourAPI.BehaviourTrees, asm: BehaviourAPI.BehaviourTrees}
+      data:
+        Iterations: -1
+    - rid: 6454280766627774524
+      type: {class: SelectorNode, ns: BehaviourAPI.BehaviourTrees, asm: BehaviourAPI.BehaviourTrees}
+      data:
+        IsRandomized: 0
+    - rid: 6454280766627774525
+      type: {class: SequencerNode, ns: BehaviourAPI.BehaviourTrees, asm: BehaviourAPI.BehaviourTrees}
+      data:
+        IsRandomized: 0
+    - rid: 6454280766627774527
+      type: {class: ReactiveConditionNode, ns: BehaviourAPI.BehaviourTrees, asm: BehaviourAPI.BehaviourTrees}
+      data:
+        InterruptOptions: 2
+    - rid: 6454280766627774528
+      type: {class: CustomPerception, ns: BehaviourAPI.UnityToolkit.GUIDesigner.Framework, asm: BehaviourAPI.UnityToolkit.GUIDesigner.Framework}
+      data:
+        init:
+          componentName: 
+          methodName: SearchEnemy
+        check:
+          componentName: 
+          methodName: EnemyNearby
+        reset:
+          componentName: 
+          methodName: EnemyFound
+        pause:
+          componentName: 
+          methodName: 
+        unpause:
+          componentName: 
+          methodName: 
+    - rid: 6454280766627774531
+      type: {class: SelectorNode, ns: BehaviourAPI.BehaviourTrees, asm: BehaviourAPI.BehaviourTrees}
+      data:
+        IsRandomized: 0
+    - rid: 6454280766627774532
+      type: {class: SequencerNode, ns: BehaviourAPI.BehaviourTrees, asm: BehaviourAPI.BehaviourTrees}
+      data:
+        IsRandomized: 0
+    - rid: 6454280766627774533
+      type: {class: SequencerNode, ns: BehaviourAPI.BehaviourTrees, asm: BehaviourAPI.BehaviourTrees}
+      data:
+        IsRandomized: 0
+    - rid: 6454280766627774534
+      type: {class: LeafNode, ns: BehaviourAPI.BehaviourTrees, asm: BehaviourAPI.BehaviourTrees}
+    - rid: 6454280766627774536
+      type: {class: CustomAction, ns: BehaviourAPI.UnityToolkit.GUIDesigner.Framework, asm: BehaviourAPI.UnityToolkit.GUIDesigner.Framework}
+      data:
+        start:
+          componentName: 
+          methodName: EnemyFound
+        update:
+          componentName: 
+          methodName: WarnEnemy
+        stop:
+          componentName: 
+          methodName: AprehendEnemy
+        pause:
+          componentName: 
+          methodName: 
+        unpause:
+          componentName: 
+          methodName: 
+    - rid: 6454280766627774537
+      type: {class: ReactiveConditionNode, ns: BehaviourAPI.BehaviourTrees, asm: BehaviourAPI.BehaviourTrees}
+      data:
+        InterruptOptions: 2
+    - rid: 6454280766627774538
+      type: {class: CustomPerception, ns: BehaviourAPI.UnityToolkit.GUIDesigner.Framework, asm: BehaviourAPI.UnityToolkit.GUIDesigner.Framework}
+      data:
+        init:
+          componentName: 
+          methodName: EnemyFound
+        check:
+          componentName: 
+          methodName: EnemyShooting
+        reset:
+          componentName: 
+          methodName: BeginDuel
+        pause:
+          componentName: 
+          methodName: 
+        unpause:
+          componentName: 
+          methodName: 
+    - rid: 6454280766627774539
+      type: {class: LeafNode, ns: BehaviourAPI.BehaviourTrees, asm: BehaviourAPI.BehaviourTrees}
+    - rid: 6454280766627774540
+      type: {class: SubgraphAction, ns: BehaviourAPI.UnityToolkit.GUIDesigner.Framework, asm: BehaviourAPI.UnityToolkit.GUIDesigner.Framework}
+      data:
+        ExecuteOnLoop: 1
+        InterruptOptions: 2
+        subgraphId: c469104a-9cbc-4b93-a513-6af8495e5ac9
+    - rid: 6454280766627774541
+      type: {class: LeafNode, ns: BehaviourAPI.BehaviourTrees, asm: BehaviourAPI.BehaviourTrees}
+    - rid: 6454280766627774542
+      type: {class: CustomAction, ns: BehaviourAPI.UnityToolkit.GUIDesigner.Framework, asm: BehaviourAPI.UnityToolkit.GUIDesigner.Framework}
+      data:
+        start:
+          componentName: 
+          methodName: LoopStarted
+        update:
+          componentName: 
+          methodName: Patrol
+        stop:
+          componentName: 
+          methodName: EnemyDetected
+        pause:
+          componentName: 
+          methodName: 
+        unpause:
+          componentName: 
+          methodName: 
+    - rid: 6454280766627774543
+      type: {class: ReactiveConditionNode, ns: BehaviourAPI.BehaviourTrees, asm: BehaviourAPI.BehaviourTrees}
+      data:
+        InterruptOptions: 2
+    - rid: 6454280766627774544
+      type: {class: CustomPerception, ns: BehaviourAPI.UnityToolkit.GUIDesigner.Framework, asm: BehaviourAPI.UnityToolkit.GUIDesigner.Framework}
+      data:
+        init:
+          componentName: 
+          methodName: EnemyFound
+        check:
+          componentName: 
+          methodName: EnemyStealing
+        reset:
+          componentName: 
+          methodName: EnemyShot
+        pause:
+          componentName: 
+          methodName: 
+        unpause:
+          componentName: 
+          methodName: 
+    - rid: 6454280766627774545
+      type: {class: LeafNode, ns: BehaviourAPI.BehaviourTrees, asm: BehaviourAPI.BehaviourTrees}
+    - rid: 6454280766627774546
+      type: {class: CustomAction, ns: BehaviourAPI.UnityToolkit.GUIDesigner.Framework, asm: BehaviourAPI.UnityToolkit.GUIDesigner.Framework}
+      data:
+        start:
+          componentName: 
+          methodName: EnemyDetected
+        update:
+          componentName: 
+          methodName: EnemyShot
+        stop:
+          componentName: 
+          methodName: EnemyKilled
+        pause:
+          componentName: 
+          methodName: 
+        unpause:
+          componentName: 
+          methodName: 
+    - rid: 6454280766627774550
+      type: {class: LeafNode, ns: BehaviourAPI.BehaviourTrees, asm: BehaviourAPI.BehaviourTrees}
+    - rid: 6454280766627774553
+      type: {class: CompoundActionWrapper, ns: BehaviourAPI.UnityToolkit.GUIDesigner.Framework, asm: BehaviourAPI.UnityToolkit.GUIDesigner.Framework}
+      data:
+        compoundAction:
+          rid: 6454280766627774554
+        subActions:
+        - action:
+            rid: 6454280766627774555
+    - rid: 6454280766627774554
+      type: {class: SequenceAction, ns: BehaviourAPI.Core.Actions, asm: BehaviourAPI.Core}
+      data:
+        TargetStatus: 2
+    - rid: 6454280766627774555
+      type: {class: PathingAction, ns: BehaviourAPI.UnityToolkit, asm: BehaviourAPI.UnityToolkit}
+      data:
+        positions: []
+        distanceThreshold: 0
