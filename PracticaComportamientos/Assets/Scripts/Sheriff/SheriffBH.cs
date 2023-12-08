@@ -7,6 +7,7 @@ using BehaviourAPI.UnityToolkit.GUIDesigner.Runtime;
 using BehaviourAPI.UnityToolkit;
 using UnityEngine;
 using UnityEngine.AI;
+using UnityEngine.Events;
 
 public class SheriffBH : BehaviourRunner
 {      
@@ -14,35 +15,51 @@ public class SheriffBH : BehaviourRunner
     NavMeshAgent meshAgent;
     BSRuntimeDebugger _debugger;
 
+    public CapsuleCollider detectionArea;
+    private List<Vector3> patrolPoints = new List<Vector3>();
+
+    //delegate void On
+
 
     protected override void Init()
     {                
 
         meshAgent = GetComponent<NavMeshAgent>();
         _debugger = GetComponent<BSRuntimeDebugger>();
+
+        var bankPos = new Vector3(pivots[(int)Location.BANCO].position.x,transform.position.y ,pivots[(int)Location.BANCO].position.z);
+        var minesPos = new Vector3(pivots[(int)Location.MINA].position.x,transform.position.y ,pivots[(int)Location.MINA].position.z);
+        var tavernPos = new Vector3(pivots[(int)Location.TAVERNA].position.x,transform.position.y ,pivots[(int)Location.TAVERNA].position.z);
+
+        patrolPoints.Add(bankPos);
+        patrolPoints.Add(minesPos);
+        patrolPoints.Add(tavernPos);
         base.Init();
     }
 
     protected override BehaviourGraph CreateGraph()
     {
-        var bt = new BehaviourTree();
-        var bankPos = pivots[(int)Location.BANCO].position;
+        //Tree declaration
+        var bt = new BehaviourTree();            
 
-        var toBank = new WalkAction(bankPos);
-        /*var toTavern = new WalkAction(pivots[(int)Location.TAVERNA].position);
-        var toMines = new WalkAction(pivots[(int)Location.MINA].position);*/
+        //Actions
+        var patrolAction = new PathingAction(patrolPoints,3f);
+        var alertAction = new FunctionalAction();
 
-        var patrolToBank = bt.CreateLeafNode("patrolToBank", toBank);
-        /*var patrolToTavern = bt.CreateLeafNode("patrolToTavern", toTavern);
-        var patrolToMines = bt.CreateLeafNode("patrolToMines", toMines);*/
+        //Leafs    
+        var patrol = bt.CreateLeafNode("patrol", patrolAction);        
 
-        //var seq = bt.CreateComposite<SequencerNode>("seq",false, patrolToBank,patrolToTavern,patrolToMines);
-        var loop = bt.CreateDecorator<LoopNode>(patrolToBank);
+        var seq = bt.CreateComposite<SequencerNode>("seq",false, patrol);
+        var loop = bt.CreateDecorator<LoopNode>(seq);
             
-        bt.SetRootNode(patrolToBank);
+        bt.SetRootNode(loop);
         _debugger.RegisterGraph(bt, "main");
         return bt;
-    }
+    }    
+
+    //private void 
+
+    
 
 }
     
