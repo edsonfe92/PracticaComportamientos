@@ -8,6 +8,7 @@ using BehaviourAPI.UnityToolkit;
 using UnityEngine;
 using UnityEngine.AI;
 using UnityEngine.Events;
+using System.Buffers;
 
 public class SheriffBH : BehaviourRunner
 {      
@@ -18,12 +19,15 @@ public class SheriffBH : BehaviourRunner
     public CapsuleCollider detectionArea;
     private List<Vector3> patrolPoints = new List<Vector3>();
 
-    //delegate void On
+    public delegate void OnThiefDetected(GameObject gameObject);
+    public static OnThiefDetected onThiefDetected;
 
+    bool thiefDetected;
 
     protected override void Init()
     {                
 
+        onThiefDetected += CurrentThiefDetected;    
         meshAgent = GetComponent<NavMeshAgent>();
         _debugger = GetComponent<BSRuntimeDebugger>();
 
@@ -44,20 +48,48 @@ public class SheriffBH : BehaviourRunner
 
         //Actions
         var patrolAction = new PathingAction(patrolPoints,3f);
-        var alertAction = new FunctionalAction();
+        var alertAction = new FunctionalAction(Alert);
+        alertAction.onStopped += aaa;
 
         //Leafs    
-        var patrol = bt.CreateLeafNode("patrol", patrolAction);        
+        var patrol = bt.CreateLeafNode("patrol", patrolAction);     
+        var alert = bt.CreateLeafNode("alert", alertAction);
 
-        var seq = bt.CreateComposite<SequencerNode>("seq",false, patrol);
-        var loop = bt.CreateDecorator<LoopNode>(seq);
+        //var seq = bt.CreateComposite<SequencerNode>("seq",false, );
+        var sel = bt.CreateComposite<SelectorNode>("sel",false, patrol, alert);
+        var loop = bt.CreateDecorator<LoopNode>(sel);
             
         bt.SetRootNode(loop);
         _debugger.RegisterGraph(bt, "main");
         return bt;
     }    
 
-    //private void 
+    private void CurrentThiefDetected(GameObject gameObject)
+    {
+        thiefDetected = true;
+        meshAgent.isStopped = true;
+
+    }
+    private Status Alert()
+    {
+        if(thiefDetected)
+        {
+            Debug.Log("FORAJIDO DETECTADO");
+            
+            return Status.Success;
+        }        
+        else
+        {
+            return Status.Failure;
+        }
+        
+        
+    }
+    private void aaa()
+    {
+        Debug.Log("AAAAA");
+    }
+    
 
     
 
