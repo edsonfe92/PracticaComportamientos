@@ -45,18 +45,21 @@ public class SheriffBH : BehaviourRunner
     {
         //Tree declaration
         var bt = new BehaviourTree();            
+        var bankPos = new Vector3(pivots[(int)Location.BANCO].position.x,transform.position.y ,pivots[(int)Location.BANCO].position.z);
 
         //Actions
-        var patrolAction = new PathingAction(patrolPoints,3f);
+        var patrolAction = new PathingAction(patrolPoints,3f);        
         var alertAction = new FunctionalAction(Alert);
-        alertAction.onStopped += aaa;
+        var action = new WalkAction(bankPos);
+        
+        
 
         //Leafs    
         var patrol = bt.CreateLeafNode("patrol", patrolAction);     
         var alert = bt.CreateLeafNode("alert", alertAction);
 
         //var seq = bt.CreateComposite<SequencerNode>("seq",false, );
-        var sel = bt.CreateComposite<SelectorNode>("sel",false, patrol, alert);
+        var sel = bt.CreateComposite<SelectorNode>("sel",false, alert, patrol );
         var loop = bt.CreateDecorator<LoopNode>(sel);
             
         bt.SetRootNode(loop);
