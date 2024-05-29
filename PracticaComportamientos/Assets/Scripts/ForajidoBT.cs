@@ -3,107 +3,95 @@ using System.Collections.Generic;
 using BehaviourAPI.BehaviourTrees;
 using BehaviourAPI.Core;
 using BehaviourAPI.Core.Actions;
-using BehaviourAPI.UnityToolkit;
 using BehaviourAPI.UnityToolkit.GUIDesigner.Runtime;
+using BehaviourAPI.UnityToolkit;
 using UnityEngine;
 using UnityEngine.AI;
+using UnityEngine.Events;
+using System.Buffers;
 
-public class ForajidoBT : BehaviourRunner
-{
-    //BehaviourTree forajidobt = new BehaviourTree();
-
-    //public Transform[] pivotArray;
-
-    public List<Transform> PivotTransforms = new List<Transform>();
-
-    public GameObject forajido;
-    private int destination;
-
+public class SheriffBH : BehaviourRunner
+{      
+    public List<Transform> pivots = new List<Transform>();
+    NavMeshAgent meshAgent;
     BSRuntimeDebugger _debugger;
 
+    public CapsuleCollider detectionArea;
+    private List<Vector3> patrolPoints = new List<Vector3>();
+
+    public delegate void OnThiefDetected(GameObject gameObject);
+    public static OnThiefDetected onThiefDetected;
+
+    bool thiefDetected;
+
     protected override void Init()
-    {
+    {                
+
+        onThiefDetected += CurrentThiefDetected;    
+        meshAgent = GetComponent<NavMeshAgent>();
         _debugger = GetComponent<BSRuntimeDebugger>();
+
+        var bankPos = new Vector3(pivots[(int)Location.BANCO].position.x,transform.position.y ,pivots[(int)Location.BANCO].position.z);
+        var minesPos = new Vector3(pivots[(int)Location.MINA].position.x,transform.position.y ,pivots[(int)Location.MINA].position.z);
+        var tavernPos = new Vector3(pivots[(int)Location.TAVERNA].position.x,transform.position.y ,pivots[(int)Location.TAVERNA].position.z);
+
+        patrolPoints.Add(bankPos);
+        patrolPoints.Add(minesPos);
+        patrolPoints.Add(tavernPos);
         base.Init();
-    }    
+    }
 
     protected override BehaviourGraph CreateGraph()
     {
+        //Tree declaration
+        var bt = new BehaviourTree();            
 
-        Location valueDestination = (Location)Random.Range(0, 3);
-        destination = (int)valueDestination;
+        //Actions
+        var patrolAction = new PathingAction(patrolPoints,3f);
+        var alertAction = new FunctionalAction(Alert);
+        alertAction.onStopped += aaa;
 
-        Location valueEscape = (Location)Random.Range(3, 6);
-        int Escape = (int)valueEscape;
+        //Leafs    
+        var patrol = bt.CreateLeafNode("patrol", patrolAction);     
+        var alert = bt.CreateLeafNode("alert", alertAction);
 
-        BehaviourTree forajidobt = new BehaviourTree();
+        //var seq = bt.CreateComposite<SequencerNode>("seq",false, );
+        var sel = bt.CreateComposite<SelectorNode>("sel",false, patrol, alert);
+        var loop = bt.CreateDecorator<LoopNode>(sel);
+            
+        bt.SetRootNode(loop);
+        _debugger.RegisterGraph(bt, "main");
+        return bt;
+    }    
 
-        //var BankPos = new Vector3(PivotTransforms[(int)Location.BANCO].position.x, transform.position.y, PivotTransforms[(int)Location.BANCO].position.z);
-        var Destino = new Vector3(PivotTransforms[destination].position.x, transform.position.y, PivotTransforms[destination].position.z);
-
-        Debug.Log(PivotTransforms[destination].position);
-
-        /*var Entrada1Pos = new Vector3(PivotTransforms[(int)Location.ENTRADA1].position.x, transform.position.y, PivotTransforms[(int)Location.ENTRADA1].position.z);
-        var Entrada2Pos = new Vector3(PivotTransforms[(int)Location.ENTRADA2].position.x, transform.position.y, PivotTransforms[(int)Location.ENTRADA2].position.z);
-        var Entrada3Pos = new Vector3(PivotTransforms[(int)Location.ENTRADA3].position.x, transform.position.y, PivotTransforms[(int)Location.ENTRADA3].position.z);*/
-
-        var Salida = new Vector3(PivotTransforms[Escape].position.x, transform.position.y, PivotTransforms[Escape].position.z);
-
-        var Fuera = new Vector3(PivotTransforms[(int)Location.FUERA].position.x, transform.position.y, PivotTransforms[(int)Location.FUERA].position.z);
-
-        var walkToDestAction = new WalkAction(Destino); 
-        var walkToEscapeAction = new WalkAction(Salida);
-        var stealAction = new FunctionalAction(EnterBank, () => Status.Success);
-        var salirAction = new FunctionalAction(OuterBank, () => Status.Success);
-        var detainAction = new FunctionalAction(Detained, () => Status.Success);
-        //var Duel = new FunctionalAction(EnterBank);
-        //var walkToMineAction = new WalkAction(MinePos);
-        //var walkToTavernAction = new WalkAction(TavernPos);
-
-        var walkToDestination = forajidobt.CreateLeafNode("walkToDestination", walkToDestAction); // Camina al destino
-        var steal = forajidobt.CreateLeafNode("steal", stealAction);
-        var salir = forajidobt.CreateLeafNode("salir", salirAction);
-        var walkToEscape = forajidobt.CreateLeafNode("walkToEscape", walkToEscapeAction); // Camina al banco
-        var timer = forajidobt.CreateDecorator<UnityTimerDecorator>("Timer", salir).SetTotalTime(5f);
-
-        //var walkToMine = forajidobt.CreateLeafNode("walkToMine", walkToMineAction); // Camina a la mina
-        //var walkToTavern = forajidobt.CreateLeafNode("walkToTavern", walkToTavernAction); // Camina a la taberna
-
-        var seq = forajidobt.CreateComposite<SequencerNode>("key seq", false, walkToDestination, steal, timer, walkToEscape);
-        forajidobt.SetRootNode(seq);
-        _debugger.RegisterGraph(forajidobt, "main");
-        return forajidobt;
-    }
-
-    private void EnterBank()
+    private void CurrentThiefDetected(GameObject gameObject)
     {
-        Debug.Log("EnterBank");
-        DesaparecerForajido();
-    }
+        thiefDetected = true;
+        meshAgent.isStopped = true;
 
-    private void OuterBank()
-    {
-        Debug.Log("OuterBank");
-        AparecerForajido();
     }
-
-    private void Detained()
+    private Status Alert()
     {
+        if(thiefDetected)
+        {
+            Debug.Log("FORAJIDO DETECTADO");
+            
+            return Status.Success;
+        }        
+        else
+        {
+            return Status.Failure;
+        }
+        
         
     }
-
-    private void DesaparecerForajido()
+    private void aaa()
     {
-        // Tepear al forajido fuera de la escena
-        Debug.Log("Desaparesco");
-        forajido.transform.position = new Vector3(PivotTransforms[(int)Location.FUERA].position.x, PivotTransforms[(int)Location.FUERA].position.y, PivotTransforms[(int)Location.FUERA].position.z);
+        Debug.Log("AAAAA");
     }
+    
 
-    private void AparecerForajido()
-    {
-        Debug.Log("Aparesco");
-        // El forajido reaparece
-        forajido.transform.position = new Vector3(PivotTransforms[destination].position.x, transform.position.y, PivotTransforms[destination].position.z);
-    }
+    
 
 }
+    
