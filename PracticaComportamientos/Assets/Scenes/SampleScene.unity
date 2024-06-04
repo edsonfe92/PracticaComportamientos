@@ -1465,7 +1465,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   character: {fileID: 51934506313746934, guid: 016ce494c6248e547a73f2971bebfd58, type: 3}
   RangeSpawn: {x: 0, y: 3}
-  numSpawn: 0
+  numSpawn: 50
 --- !u!4 &1112526188
 Transform:
   m_ObjectHideFlags: 0
