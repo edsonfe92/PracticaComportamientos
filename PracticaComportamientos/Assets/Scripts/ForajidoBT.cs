@@ -24,6 +24,7 @@ public class ForajidoBT : BehaviourRunner
     protected override void Init()
     {
         _debugger = GetComponent<BSRuntimeDebugger>();
+        PivotTransforms = PivotList.Instance.Pivots;
         base.Init();
     }    
 
