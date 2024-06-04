@@ -1102,11 +1102,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2b64adb0e99771458c7f8dd784dd637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PivotTransforms:
-  - {fileID: 1070340191}
-  - {fileID: 1909223020}
-  - {fileID: 1761586791}
-  forajido: {fileID: 102120037}
+  character: {fileID: 0}
+  RangeSpawn: {x: 0, y: 0}
 --- !u!1001 &796621092
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2212,17 +2209,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1761586790}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!114 &1765965977 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4741726202844418352, guid: 03de67e5179fb5b479af678ca54b10a9, type: 3}
-  m_PrefabInstance: {fileID: 8605121835948579242}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &1766369936
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7780,14 +7766,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 3553776986917807710, guid: 03de67e5179fb5b479af678ca54b10a9, type: 3}
-      propertyPath: vida
-      value: 100
-      objectReference: {fileID: 0}
-    - target: {fileID: 3553776986917807710, guid: 03de67e5179fb5b479af678ca54b10a9, type: 3}
-      propertyPath: slider
-      value: 
-      objectReference: {fileID: 1765965977}
     - target: {fileID: 4994065218393284531, guid: 03de67e5179fb5b479af678ca54b10a9, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -7816,10 +7794,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sherif
       objectReference: {fileID: 0}
-    - target: {fileID: 8483729053150037292, guid: 03de67e5179fb5b479af678ca54b10a9, type: 3}
-      propertyPath: agentNavMesh
-      value: 
-      objectReference: {fileID: 8605121835948579243}
     - target: {fileID: 8483729053150037292, guid: 03de67e5179fb5b479af678ca54b10a9, type: 3}
       propertyPath: waypoints.Array.data[0]
       value: 
@@ -7877,11 +7851,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 03de67e5179fb5b479af678ca54b10a9, type: 3}
---- !u!195 &8605121835948579243 stripped
-NavMeshAgent:
-  m_CorrespondingSourceObject: {fileID: 2569008062118235712, guid: 03de67e5179fb5b479af678ca54b10a9, type: 3}
-  m_PrefabInstance: {fileID: 8605121835948579242}
-  m_PrefabAsset: {fileID: 0}
 --- !u!23 &8616184512565374481
 MeshRenderer:
   m_ObjectHideFlags: 0

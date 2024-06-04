@@ -8,12 +8,16 @@ public class SheriffBT : Tree
 {
     public UnityEngine.Transform[] waypoints;
 
-    public static float speed = 2f;
+    public static float speed = 10f;
     public static float fovRange = 6f;
     public static float attackRange = 1f;
     
     public NavMeshAgent agentNavMesh;
 
+    private void Awake() 
+    {
+        agentNavMesh.speed = speed;    
+    }
     protected override Node SetupTree()
     {
         Node root = new Selector(new List<Node>

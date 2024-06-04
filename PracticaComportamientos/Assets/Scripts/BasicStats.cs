@@ -13,8 +13,18 @@ public class BasicStats : MonoBehaviour
     {
         slider.value = vida/100;
     }
-    public void UpdateLife()
+    public bool UpdateHP(int hit)
     {
-        slider.value = vida/100;
+        vida -= hit;
+        slider.value = (vida)/100;
+
+        if(vida <= 100)
+        {
+            return true;
+        }
+        else 
+        {
+            return false;
+        }
     }
 }
