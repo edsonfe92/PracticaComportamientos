@@ -17,6 +17,9 @@ public class SpawnSystem : MonoBehaviour
     //private int spawn;
     private bool hasSpawned = false;
 
+    public int numSpawn;
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -24,18 +27,15 @@ public class SpawnSystem : MonoBehaviour
 
         if (!hasSpawned)
         {
-            Spawn();
+            for (int i = 0; i < numSpawn; i++)
+            {             
+                Spawn();   
+            }
             hasSpawned = true;
             Debug.Log("AAA");
             //enabled = false; //SI QUITO ESTE SPAWNEAN INFINITOS
         }
        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 
     public void SetPivoteList(List<Transform> spawnList)
@@ -52,7 +52,7 @@ public class SpawnSystem : MonoBehaviour
         if(bicho.GetComponent<VecinoStateManager>() != null)
         {
             bicho.GetComponent<VecinoStateManager>().spawn = valueSpawn;
-        }
+        }        
         Debug.Log("Spawned");
     }
 }
