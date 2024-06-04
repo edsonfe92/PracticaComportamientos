@@ -10,22 +10,24 @@ using UnityEngine.AI;
 
 public class SpawnSystem : MonoBehaviour
 {
-    public List<Transform> PivotTransforms = new List<Transform>();
+    private List<Transform> PivotTransforms = new List<Transform>();
 
-    public GameObject forajido;
+    public GameObject character;
+    public Vector2 RangeSpawn;
     //private int spawn;
-    private static bool hasSpawned = false;
+    private bool hasSpawned = false;
 
     // Start is called before the first frame update
-
     void Start()
     {
+        PivotTransforms = PivotList.Instance.Pivots;
+
         if (!hasSpawned)
         {
             Spawn();
             hasSpawned = true;
             Debug.Log("AAA");
-            enabled = false; //SI QUITO ESTE SPAWNEAN INFINITOS
+            //enabled = false; //SI QUITO ESTE SPAWNEAN INFINITOS
         }
        
     }
@@ -36,14 +38,21 @@ public class SpawnSystem : MonoBehaviour
         
     }
 
+    public void SetPivoteList(List<Transform> spawnList)
+    {
+        PivotTransforms = spawnList;
+    }
+
     private void Spawn()
     {
-        Location valueSpawn = (Location)Random.Range(0, 3);
-        int spawn = (int)valueSpawn;
+        Location valueSpawn = (Location)Random.Range(RangeSpawn.x, RangeSpawn.y);
         //forajido = GameObject.Find("Character");
-        
-        Instantiate(forajido, PivotTransforms[spawn].position, Quaternion.identity);
-        
+
+        var bicho = Instantiate(character, PivotTransforms[(int)valueSpawn].position, Quaternion.identity);
+        if(bicho.GetComponent<VecinoStateManager>() != null)
+        {
+            bicho.GetComponent<VecinoStateManager>().spawn = valueSpawn;
+        }
         Debug.Log("Spawned");
     }
 }
