@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.AI;
 
 
 
@@ -10,6 +11,8 @@ public class SheriffBT : Tree
     public static float speed = 2f;
     public static float fovRange = 6f;
     public static float attackRange = 1f;
+    
+    public NavMeshAgent agentNavMesh;
 
     protected override Node SetupTree()
     {

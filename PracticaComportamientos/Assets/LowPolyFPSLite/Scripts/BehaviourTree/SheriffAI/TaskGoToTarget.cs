@@ -18,9 +18,10 @@ public class TaskGoToTarget : Node
 
         if (Vector3.Distance(_transform.position, target.position) > 0.01f)
         {
-            _transform.position = Vector3.MoveTowards(
-                _transform.position, target.position, SheriffBT.speed * Time.deltaTime);
-            _transform.LookAt(target.position);
+            /*_transform.position = Vector3.MoveTowards(
+                _transform.position, target.position, SheriffBT.speed * Time.deltaTime);*/
+            _transform.GetComponent<SheriffBT>().agentNavMesh.SetDestination(new Vector3(target.position.x, _transform.position.y, target.position.z));
+            //_transform.LookAt(target.position);
         }
 
         state = NodeState.RUNNING;
