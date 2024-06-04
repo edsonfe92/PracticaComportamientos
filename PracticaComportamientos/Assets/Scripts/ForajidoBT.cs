@@ -31,13 +31,8 @@ public class SheriffBH : BehaviourRunner
         meshAgent = GetComponent<NavMeshAgent>();
         _debugger = GetComponent<BSRuntimeDebugger>();
 
-        var bankPos = new Vector3(pivots[(int)Location.BANCO].position.x,transform.position.y ,pivots[(int)Location.BANCO].position.z);
-        var minesPos = new Vector3(pivots[(int)Location.MINA].position.x,transform.position.y ,pivots[(int)Location.MINA].position.z);
-        var tavernPos = new Vector3(pivots[(int)Location.TAVERNA].position.x,transform.position.y ,pivots[(int)Location.TAVERNA].position.z);
+        PivotTransforms = PivotList.Instance.Pivots;
 
-        patrolPoints.Add(bankPos);
-        patrolPoints.Add(minesPos);
-        patrolPoints.Add(tavernPos);
         base.Init();
     }
 

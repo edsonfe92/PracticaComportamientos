@@ -7,6 +7,7 @@ public enum Location
     ENTRADA1 = 3,
     ENTRADA2 = 4,
     ENTRADA3 = 5,
-    FUERA = 6
+    FUERA = 6,
+    HUIDA = 7
 
 }
