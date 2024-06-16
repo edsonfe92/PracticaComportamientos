@@ -8,6 +8,10 @@ public enum Location
     ENTRADA2 = 4,
     ENTRADA3 = 5,
     FUERA = 6,
-    HUIDA = 7
+    HUIDA = 7,
+    CALLE1 = 8,
+    CALLE2 = 9,
+    CALLE3 = 10,
+    CALLE4 = 11
 
 }

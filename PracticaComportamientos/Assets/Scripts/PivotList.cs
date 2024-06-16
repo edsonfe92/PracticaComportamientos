@@ -22,7 +22,7 @@ public class PivotList : MonoBehaviour
                 // Si no existe, creamos una nueva
                 if (_instance == null)
                 {
-                    GameObject singletonObject = new GameObject("GameManager");
+                    GameObject singletonObject = new GameObject("PivotList");
                     _instance = singletonObject.AddComponent<PivotList>();
                     DontDestroyOnLoad(singletonObject);
                 }
