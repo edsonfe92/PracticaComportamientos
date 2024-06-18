@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class VecinoStateManager : MonoBehaviour
 {
@@ -9,6 +10,11 @@ public class VecinoStateManager : MonoBehaviour
     public VecinoWalkState WalkingState = new VecinoWalkState();
     public VecinoPanicState PanicState = new VecinoPanicState();
     public Location spawn;
+    public NavMeshAgent navMesh;
+    private void Awake()
+    {
+        navMesh = GetComponent<NavMeshAgent>();
+    }
     // Start is called before the first frame update
     void Start()
     {
