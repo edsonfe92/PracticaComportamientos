@@ -6,6 +6,7 @@ TagManager:
   tags:
   - sheriff
   - forajido
+  - bullet
   layers:
   - Default
   - TransparentFX
@@ -14,7 +15,7 @@ TagManager:
   - Water
   - UI
   - forajido
-  - 
+  - sherif
   - 
   - 
   - 

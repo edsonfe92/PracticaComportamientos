@@ -31,8 +31,7 @@ public class SpawnSystem : MonoBehaviour
             {             
                 Spawn();   
             }
-            hasSpawned = true;
-            Debug.Log("AAA");
+            hasSpawned = true;            
             //enabled = false; //SI QUITO ESTE SPAWNEAN INFINITOS
         }
        
@@ -53,6 +52,10 @@ public class SpawnSystem : MonoBehaviour
         {
             bicho.GetComponent<VecinoStateManager>().spawn = valueSpawn;
         }        
+        /*if(bicho.GetComponent<ForajidoBT>() != null)
+        {
+            bicho.GetComponent<ForajidoBT>().enabled = true;
+        }*/
         Debug.Log("Spawned");
     }
 }

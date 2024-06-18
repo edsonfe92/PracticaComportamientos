@@ -14,20 +14,27 @@ public class CheckForajidoInAttackRange : Node
 
     public override NodeState Evaluate()
     {
+        
         object t = GetData("target");
-        if (t == null)
+
+        if (t == null || (Transform)t == null)
         {
+            ClearData("target");
             state = NodeState.FAILURE;
             return state;
         }
 
-        Transform target = (Transform)t;
-        if (Vector3.Distance(_transform.position, target.position) <= SheriffBT.attackRange)
-        {
+     
+        Transform target = (Transform)t;     
 
-            state = NodeState.SUCCESS;
-            return state;
-        }
+            if (Vector3.Distance(_transform.position, target.position) <= SheriffBT.attackRange)
+            {
+                _transform.GetComponent<SheriffBT>().agentNavMesh.SetDestination(_transform.position);
+                state = NodeState.SUCCESS;
+                return state;
+            }
+        
+        
 
         state = NodeState.FAILURE;
         return state;

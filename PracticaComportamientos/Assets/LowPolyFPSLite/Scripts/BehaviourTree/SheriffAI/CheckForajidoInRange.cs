@@ -21,11 +21,11 @@ public class CheckForajidoInRange : Node
         {
             Collider[] colliders = Physics.OverlapSphere(
                 _transform.position, SheriffBT.fovRange, _forajidoLayerMask);
-
+            
             if (colliders.Length > 0)
-            {
+            {                
                 parent.parent.SetData("target", colliders[0].transform);
-                
+                Debug.Log("OBJETIVO: " + colliders[0].transform.gameObject.name);
                 state = NodeState.SUCCESS;
                 return state;
             }
