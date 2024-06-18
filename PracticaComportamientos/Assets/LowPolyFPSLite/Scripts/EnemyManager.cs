@@ -35,7 +35,7 @@ public class EnemyManager : MonoBehaviour
 
     public bool TakeHit()
     {
-        _healthpoints -= 50;
+        _healthpoints -= 10;
         healthDisplay.value = _healthpoints/100;
         gotHit = true;
 

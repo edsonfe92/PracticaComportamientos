@@ -168,7 +168,7 @@ public class ForajidoBT : BehaviourRunner
         
         //Actions
         var shootAction = new FunctionalAction(Shoot, ShootUpdate);
-        var reloadTimeAction = new DelayAction(3);
+        var reloadTimeAction = new DelayAction(10);
 
         //States
         var shootState = fsmDuel.CreateState("shoot", shootAction);
